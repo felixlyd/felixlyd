@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlyd&layout=compact&show_icons=true&theme=buefy&exclude_repo=jekyll-TeXt-theme,felixlyd.github.io,machine-learning,OPDB,operondemmoDB)](https://github.com/anuraghazra/github-readme-stats)
 
+ps: 赶紧毕了业上班去，远离生信！
