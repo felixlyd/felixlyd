@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - I’m currently learning pytorch.
 - How to reach me: ttttttliu@qq.com
-- My blogs: https://felixlyd.github.io/
+- My blogs: https://felixlyd.wordpress.com/
 - About me: [zhihu](https://www.zhihu.com/people/liu-yao-dong-33),[bilibili](https://space.bilibili.com/39680972)
 
 
