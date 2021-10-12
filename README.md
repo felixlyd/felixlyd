@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently learning pytorch.
+- I’m currently learning spring cloud.
 - How to reach me: ttttttliu@qq.com
 - My blogs: https://felixlyd.wordpress.com/
 - About me: [zhihu](https://www.zhihu.com/people/liu-yao-dong-33),[bilibili](https://space.bilibili.com/39680972)
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlyd&layout=compact&show_icons=true&theme=buefy&exclude_repo=jekyll-TeXt-theme,felixlyd.github.io,machine-learning,OPDB,operondemmoDB,pytorch-code-training)](https://github.com/felixlyd/felixlyd)
 
-**ps**: 赶紧毕了业上班去，远离生信！
+**ps**: 995程序员
