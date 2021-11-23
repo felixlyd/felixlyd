@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [![Lyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixlyd&count_private=true&show_icons=true&theme=radical)](https://github.com/felixlyd/felixlyd)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlyd&layout=compact&show_icons=true&theme=radical&exclude_repo=jekyll-TeXt-theme,felixlyd.github.io,machine-learning,OPDB,operondemmoDB,pytorch-code-training)](https://github.com/felixlyd/felixlyd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlyd&layout=compact&show_icons=true&theme=radical&exclude_repo=jekyll-TeXt-theme,felixlyd.github.io,machine-learning,OPDB,OperonDemoDB,pytorch-code-training)](https://github.com/felixlyd/felixlyd)
 
 **ps**: 995程序员
